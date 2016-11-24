@@ -1,0 +1,8 @@
+﻿.no-padding-left { padding-left: 0px; }
+.tc-chk { padding: 5px 20px 5px 10px; margin: 0px 10px 10px 0px; }
+    .tc-chk.tc-chk-border { border: 1px solid #808080; border-radius: 6px; }
+    .tc-chk input { margin-right: 10px; }
+
+.tc-rdo { padding: 5px 20px 5px 10px; margin: 0px 10px 10px 0px; }
+    .tc-rdo.tc-rdo-border { border: 1px solid #808080; border-radius: 6px; }
+    .tc-rdo input { margin-right: 10px; }
